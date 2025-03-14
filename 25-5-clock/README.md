@@ -30,10 +30,11 @@ Usage
 
 ## File Structure
 /pomodoro-timer
-  ├── /public
-  │   └── index.html          # HTML file that serves as the template
-  ├── /src
-  │   ├── script.js              # Main React Component
-  │   ├── index.js            # Entry point for React
-  │   ├── styles.css             # Styling for the Pomodoro Timer
-  └── package.json            # Project metadata and dependencies
+  /pomodoro-timer
+├── /public
+│ └── index.html # HTML file that serves as the template
+├── /src
+│ ├── script.js # Main React Component
+│ ├── index.js # Entry point for React
+│ ├── styles.css # Styling for the Pomodoro Timer
+└── package.json # Project metadata and dependencies
