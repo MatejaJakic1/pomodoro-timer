@@ -19,15 +19,6 @@ A simple Pomodoro Timer built using React, CSS, and JavaScript. This project all
 - **React**: JavaScript library for building user interfaces.
 - **CSS**: Styling the user interface.
 - **Font Awesome**: For the timer's icon buttons (play, pause, reset).
-  
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone this repository**:
-
-   ```bash
-   git clone https://github.com/your-username/pomodoro-timer.git
 
 Usage
 
@@ -37,7 +28,7 @@ Usage
 - **Reset Timer**: Reset the timer back to the default session and break times using the reset button.
 - When the timer reaches `0`, the Pomodoro timer will switch between session and break, and a beep sound will notify you.
 
-
+## File Structure
 /pomodoro-timer
   ├── /public
   │   └── index.html          # HTML file that serves as the template
