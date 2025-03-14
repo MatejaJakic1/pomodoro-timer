@@ -28,13 +28,3 @@ Usage
 - **Reset Timer**: Reset the timer back to the default session and break times using the reset button.
 - When the timer reaches `0`, the Pomodoro timer will switch between session and break, and a beep sound will notify you.
 
-## File Structure
-/pomodoro-timer
-  /pomodoro-timer
-├── /public
-│ └── index.html # HTML file that serves as the template
-├── /src
-│ ├── script.js # Main React Component
-│ ├── index.js # Entry point for React
-│ ├── styles.css # Styling for the Pomodoro Timer
-└── package.json # Project metadata and dependencies
