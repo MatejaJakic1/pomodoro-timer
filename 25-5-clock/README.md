@@ -28,3 +28,20 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/pomodoro-timer.git
+
+Usage
+
+Break Length: Increase or decrease the break length (in minutes) using the + and - buttons.
+Session Length: Increase or decrease the session length (in minutes) using the + and - buttons.
+Start/Stop Timer: Start and pause the timer using the play/pause button.
+Reset Timer: Reset the timer back to the default session and break times using the reset button.
+When the timer reaches 0, the Pomodoro timer will switch between session and break, and a beep sound will notify you.
+
+/pomodoro-timer
+  ├── /public
+  │   └── index.html          # HTML file that serves as the template
+  ├── /src
+  │   ├── script.js              # Main React Component
+  │   ├── index.js            # Entry point for React
+  │   ├── styles.css             # Styling for the Pomodoro Timer
+  └── package.json            # Project metadata and dependencies
