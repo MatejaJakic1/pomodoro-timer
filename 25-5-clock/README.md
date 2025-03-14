@@ -31,11 +31,12 @@ To run this project locally, follow these steps:
 
 Usage
 
-Break Length: Increase or decrease the break length (in minutes) using the + and - buttons.
-Session Length: Increase or decrease the session length (in minutes) using the + and - buttons.
-Start/Stop Timer: Start and pause the timer using the play/pause button.
-Reset Timer: Reset the timer back to the default session and break times using the reset button.
-When the timer reaches 0, the Pomodoro timer will switch between session and break, and a beep sound will notify you.
+- **Break Length**: Increase or decrease the break length (in minutes) using the `+` and `-` buttons.
+- **Session Length**: Increase or decrease the session length (in minutes) using the `+` and `-` buttons.
+- **Start/Stop Timer**: Start and pause the timer using the play/pause button.
+- **Reset Timer**: Reset the timer back to the default session and break times using the reset button.
+- When the timer reaches `0`, the Pomodoro timer will switch between session and break, and a beep sound will notify you.
+
 
 /pomodoro-timer
   ├── /public
